@@ -1,4 +1,4 @@
  language: java
  script:
-  - cd java-builders-generator/io.github.khabali.javabuildersgenerator
+  - cd io.github.khabali.javabuildersgenerator
   - mvn clean verify
