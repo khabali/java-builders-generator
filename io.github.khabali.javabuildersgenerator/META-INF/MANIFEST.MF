@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java Builders Generator
+Bundle-SymbolicName: io.github.khabali.javabuildersgenerator;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: io.github.khabali.javabuildersgenerator.Activator
+Bundle-Vendor: Anas KHABALI <khabali.anas@gmail.com>
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.jdt.core;bundle-version="3.12.3",
+ org.eclipse.jdt.ui;bundle-version="3.12.2"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Export-Package: io.github.khabali.javabuildersgenerator;x-internal:=true,
+ io.github.khabali.javabuildersgenerator.handler;x-internal:=true,
+ io.github.khabali.javabuildersgenerator.wizard;x-internal:=true
