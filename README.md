@@ -1,2 +1,2 @@
-# io.github.khabali.buildersgenerator
-Eclipse plugin to generate builders from class fields
+# Builders Generator
+Eclipse plugin to generate builders from class fields, this plugins support mandatory fields
