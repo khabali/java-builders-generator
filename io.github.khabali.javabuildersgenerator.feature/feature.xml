@@ -2,7 +2,7 @@
 <feature
       id="io.github.khabali.javabuildersgenerator.feature"
       label="Java Builders Generator"
-      version="0.0.1"
+      version="1.0.0.qualifier"
       provider-name="Anas KHABALI"
       plugin="io.github.khabali.javabuildersgenerator">
 
