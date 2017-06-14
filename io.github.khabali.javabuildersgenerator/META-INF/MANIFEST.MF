@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Java Builders Generator
 Bundle-SymbolicName: io.github.khabali.javabuildersgenerator;singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 0.0.1
 Bundle-Activator: io.github.khabali.javabuildersgenerator.Activator
 Bundle-Vendor: Anas KHABALI <khabali.anas@gmail.com>
 Require-Bundle: org.eclipse.ui,
