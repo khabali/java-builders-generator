@@ -6,5 +6,4 @@
   directories:  
    - $HOME/.m2
  script:
-  - cd io.github.khabali.javabuildersgenerator
   - mvn clean verify
