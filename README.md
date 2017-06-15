@@ -50,6 +50,6 @@ I let you discover that!
 ![screen shot](https://github.com/khabali/java-builders-generator/blob/master/screenshots/java-builders-generator-menu.png)
 
 ## Contributions
-Please before submiting any bugs or pull requests have a look at our [Contributor Covenant Code of Conduct](CONTRIBUTING.md).
+Please before [contributing](CONTRIBUTING.md) to this project have a look at our [Contributor Covenant Code of Conduct](code_of_conduct.md).
 
 Thanks for reading :)
